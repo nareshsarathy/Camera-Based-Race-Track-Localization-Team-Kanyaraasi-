@@ -1,5 +1,5 @@
 # Camera-Based Localization on a Race Track (Yas Marina Circuit)
-**Constructor Labs — National AI Hackathon 2026 by SchubKI**
+**Coded by: Nareshsarathy Sambath, Irfan Haris Shaik**
 
 ## Overview
 This repository contains a high-performance, strictly causal camera-based localization system for a full-size autonomous race car (Dallara Super Formula SF23) driving at up to 160 km/h on the F1 Yas Marina North Circuit without GNSS or LiDAR. The dataset is mot included here due to very high size. Please download the dataset from this link.(https://eu1-s3.virtuozzo.com/dev-auto-mobility-data/hackaton_2026/c0_2026-10-13_22-53-42_camloc.zip)
